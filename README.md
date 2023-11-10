@@ -53,7 +53,7 @@
 ## Programming Usage
 
 <p align=center>
-	<table>
+	<table style="font-size:50px">
 		<!-- 2019/2020 -->
 		<tr>
 			<td><b>2019/2020</b></td>
