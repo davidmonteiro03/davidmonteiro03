@@ -1,5 +1,5 @@
 <h1>My GitHub</h1>
-<h3>Hi! I'm David Monteiro.</h3>
+<p>Hi! I'm David Monteiro.</p>
 
 ## Programming Languages Overview
 
