@@ -1,5 +1,3 @@
-<h1>My GitHub</h1>
-<h3>Hi! I'm David Monteiro.</h3>
 # Programming Languages Overview
 
 This repository provides an organized overview of various programming languages, categorized based on their common use cases. Whether you are a beginner exploring different languages or an experienced developer looking for a quick reference, this guide aims to help you understand the purpose and application of each language.
