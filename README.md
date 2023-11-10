@@ -1,12 +1,3 @@
-<table>
-  <tr>
-    <td>kdjfhsjkdhf</td>
-    <td>kjdhfskdfsd</td>
-  </tr>
-  <tr>
-    <td colspan="2">kjhfsjkdfjsdkf</td>
-  </tr>
-</table>
 <!--
 **davidmonteiro03/davidmonteiro03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
