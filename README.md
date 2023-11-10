@@ -1,6 +1,9 @@
-# Programming Languages Overview
+<h1>My GitHub</h1>
+<h3>Hi! I'm David Monteiro.</h3>
 
-## Table of Contents
+## Programming Languages Overview
+
+### Table of Contents
 
 1. [Web Development Languages](#web-development-languages)
 2. [Backend Development Languages](#backend-development-languages)
@@ -9,7 +12,7 @@
 5. [Libraries and Frameworks](#libraries-and-frameworks)
 6. [Scripting and Automation Languages](#scripting-and-automation-languages)
 
-## Web Development Languages
+### Web Development Languages
 
 - **HTML**
 - **CSS**
@@ -19,21 +22,19 @@
 - **AJAX**
 - **Bootstrap**
 
-## Backend Development Languages
+### Backend Development Languages
 
 - **PHP**
 - **Python**
 - **Java**
 - **MySQL**
 
-## Mobile App Development Languages
+### Mobile App Development Languages
 
 - **Java (for Android)**
-- **Kotlin (for Android)**
-- **Swift (for iOS)**
 - **Xamarin (C# for cross-platform development)**
 
-## General-purpose Programming Languages
+### General-purpose Programming Languages
 
 - **C**
 - **C++**
@@ -42,14 +43,14 @@
 - **Java**
 - **Assembly** (typically used for low-level programming)
 
-## Libraries and Frameworks
+### Libraries and Frameworks
 
 - **JQuery** (JavaScript library)
 - **Bootstrap** (framework for HTML, CSS, and JS)
 - **Xamarin** (framework for mobile development with C#)
 - **AJAX** (asynchronous approach in JavaScript)
 
-## Scripting and Automation Languages
+### Scripting and Automation Languages
 
 - **Python**
 - **Bash** (Shell scripting)
