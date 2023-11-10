@@ -1,7 +1,5 @@
 # Programming Languages Overview
 
-This repository provides an organized overview of various programming languages, categorized based on their common use cases. Whether you are a beginner exploring different languages or an experienced developer looking for a quick reference, this guide aims to help you understand the purpose and application of each language.
-
 ## Table of Contents
 
 1. [Web Development Languages](#web-development-languages)
