@@ -1,49 +1,64 @@
 <h1>My GitHub</h1>
 <h3>Hi! I'm David Monteiro.</h3>
-Linguagens da Web:
+# Programming Languages Overview
 
-    HTML
-    CSS
-    JavaScript (JS)
-    PHP
-    JQuery
-    AJAX
-    Bootstrap
+This repository provides an organized overview of various programming languages, categorized based on their common use cases. Whether you are a beginner exploring different languages or an experienced developer looking for a quick reference, this guide aims to help you understand the purpose and application of each language.
 
-Linguagens de Programação para Backend:
+## Table of Contents
 
-    PHP
-    Python
-    Java
-    MySQL
+1. [Web Development Languages](#web-development-languages)
+2. [Backend Development Languages](#backend-development-languages)
+3. [Mobile App Development Languages](#mobile-app-development-languages)
+4. [General-purpose Programming Languages](#general-purpose-programming-languages)
+5. [Libraries and Frameworks](#libraries-and-frameworks)
+6. [Scripting and Automation Languages](#scripting-and-automation-languages)
 
-Linguagens de Programação para Aplicativos Móveis:
+## Web Development Languages
 
-    Java (para Android)
-    Kotlin (para Android)
-    Swift (para iOS)
-    Xamarin (C# para desenvolvimento multiplataforma)
+- **HTML**
+- **CSS**
+- **JavaScript (JS)**
+- **PHP**
+- **JQuery**
+- **AJAX**
+- **Bootstrap**
 
-Linguagens de Programação para Desenvolvimento de Software:
+## Backend Development Languages
 
-    C
-    C++
-    C#
-    Python
-    Java
-    Assembly (geralmente usado para programação de baixo nível)
+- **PHP**
+- **Python**
+- **Java**
+- **MySQL**
 
-Bibliotecas e Frameworks:
+## Mobile App Development Languages
 
-    JQuery (biblioteca JavaScript)
-    Bootstrap (framework para HTML, CSS e JS)
-    Xamarin (framework para desenvolvimento móvel com C#)
-    AJAX (abordagem assíncrona em JavaScript)
+- **Java (for Android)**
+- **Kotlin (for Android)**
+- **Swift (for iOS)**
+- **Xamarin (C# for cross-platform development)**
 
-Linguagens de Scripting e Automação:
+## General-purpose Programming Languages
 
-    Python
-    Bash (Shell scripting)
+- **C**
+- **C++**
+- **C#**
+- **Python**
+- **Java**
+- **Assembly** (typically used for low-level programming)
+
+## Libraries and Frameworks
+
+- **JQuery** (JavaScript library)
+- **Bootstrap** (framework for HTML, CSS, and JS)
+- **Xamarin** (framework for mobile development with C#)
+- **AJAX** (asynchronous approach in JavaScript)
+
+## Scripting and Automation Languages
+
+- **Python**
+- **Bash** (Shell scripting)
+
+Feel free to explore each category to learn more about the languages and their applications. Happy coding!
 
 <!--
 **davidmonteiro03/davidmonteiro03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
