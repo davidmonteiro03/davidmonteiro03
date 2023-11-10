@@ -1,5 +1,6 @@
-<h1>My GitHub</h1>
-<p>Hi! I'm David Monteiro.</p>
+# My GitHub
+
+Hi! I'm David Monteiro.
 
 ## Programming Languages Overview
 
@@ -54,20 +55,3 @@
 
 - **Python**
 - **Bash** (Shell scripting)
-
-Feel free to explore each category to learn more about the languages and their applications. Happy coding!
-
-<!--
-**davidmonteiro03/davidmonteiro03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
