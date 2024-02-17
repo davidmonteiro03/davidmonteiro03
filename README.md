@@ -1,5 +1,11 @@
 # I'm David Monteiro!
 
+## What am I doing these days???
+
+<p>
+	I'm improving C++ concepts to start webserv
+</p>
+
 ## About me
 
 <p>
