@@ -3,7 +3,7 @@
 ## What am I doing these days???
 
 <p>
-	I'm improving C++ concepts to start webserv
+	I'm improving C++ concepts to start webserv.
 </p>
 
 ## About me
