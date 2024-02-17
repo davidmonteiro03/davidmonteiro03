@@ -4,7 +4,7 @@
 
 <p>
 	I'm improving C++ concepts to start webserv.<br>
-	Working on <a href="https://google.pt">Main</a> repository.
+	Working on <a href="https://github.com/davidmonteiro03/Main">Main</a> repository.
 </p>
 
 ## About me
