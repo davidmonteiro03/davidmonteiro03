@@ -3,8 +3,8 @@
 ## What am I doing these days???
 
 <p>
-	I'm improving C++ concepts to start webserv.<br>
-	Working on <a href="https://github.com/davidmonteiro03/Main">Main</a> repository, <a href="https://github.com/davidmonteiro03/Main/tree/main/CIC/winhost">Winhost</a> folder.
+	I'm starting my first API<br>
+	Working on <a href="https://github.com/davidmonteiro03/API">API</a> repository.
 </p>
 
 ## About me
