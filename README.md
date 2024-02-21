@@ -4,7 +4,7 @@
 
 <p>
 	I'm starting my first web site online<br>
-	Working on <a href="https://github.com/davidmonteiro03/my-website">my-website</a> repository.
+	Working on <a href="https://github.com/davidmonteiro03/">my-website</a> repository.
 </p>
 
 ## About me
