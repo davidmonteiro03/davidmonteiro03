@@ -3,8 +3,8 @@
 ## What am I doing these days???
 
 <p>
-	I'm starting my first API<br>
-	Working on <a href="https://github.com/davidmonteiro03/API">API</a> repository.
+	I'm starting my first web site online<br>
+	Working on <a href="https://github.com/davidmonteiro03/web-site">web-site</a> repository.
 </p>
 
 ## About me
