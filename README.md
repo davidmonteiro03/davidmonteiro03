@@ -4,7 +4,7 @@
 
 <p>
 	I'm improving my C++ skills.<br>
-	For more information, click <a href="https://github.com/davidmonteiro03/Main/CIC/winhost">here</a>.
+	For more information, click <a href="https://github.com/davidmonteiro03/Main/tree/main/CIC/winhost">here</a>.
 </p>
 
 ## About me
