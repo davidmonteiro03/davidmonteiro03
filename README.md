@@ -3,8 +3,8 @@
 ## What am I doing these days???
 
 <p>
-	I'm starting my first web site online<br>
-	Working on <a href="https://github.com/davidmonteiro03/davidmonteiro03.github.io">davidmonteiro03.github.io</a> repository.
+	I'm improving my C++ skills.<br>
+	For more information, click <a href="https://github.com/davidmonteiro03/Main/CIC/winhost">here</a>.
 </p>
 
 ## About me
