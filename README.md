@@ -3,7 +3,7 @@
 ## What am I doing these days???
 
 <p>
-	I'm making a docker projects with some containers.<br>
+	I'm making a docker project with some containers.<br>
 	For more information, click <a href="https://github.com/davidmonteiro03/42-Cursus/tree/main/Projects/RANK05/Inception">here</a>.
 </p>
 
