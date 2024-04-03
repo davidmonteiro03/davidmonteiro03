@@ -3,7 +3,7 @@
 ## What am I doing these days???
 
 <p>
-	I'm doing a group project that consists in rebuilding IRC.<br>
+	I'm doing a group project that consists of rebuilding the IRC.<br>
 	For more information, click <a href="https://github.com/davidmonteiro03/42-Cursus/tree/main/Projects/RANK05/ft_irc">here</a>.
 </p>
 
