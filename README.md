@@ -3,8 +3,8 @@
 ## What am I doing these days???
 
 <p>
-	I'm doing a group project that consists of rebuilding the IRC.<br>
-	For more information, click <a href="https://github.com/davidmonteiro03/42-Cursus/tree/main/Projects/RANK05/ft_irc">here</a>.
+	I'm doing the last 42-Cursus project: ft_transcendence.<br>
+	For more information, click <a href="https://github.com/davidmonteiro03/42-Cursus/tree/main/Projects/RANK06/ft_transcendence">ft_transcendence.</a>.
 </p>
 
 ## About me
