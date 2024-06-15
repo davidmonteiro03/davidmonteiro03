@@ -119,6 +119,7 @@
 	</table>
 </p>
 
+<img src="https://badge.mediaplus.ma/binary/dcaetano?1337Badge=off&UM6P=off" alt="dcaetano's 42 stats" />
 
 ## Contacts
 
