@@ -125,6 +125,13 @@
 	<img src="https://badge.mediaplus.ma/binary/dcaetano?1337Badge=off&UM6P=off" alt="dcaetano's 42 stats" />
 </p>
 
+## My GitHub Stats
+
+<p>
+	<img alt="davidmonteiro03's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=davidmonteiro03&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=172f45&title_color=b1c2d3&icon_color=2d7cc5" height="192px"/></a>
+	<img alt="davidmonteiro03's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=davidmonteiro03&langs_count=20&layout=compact&theme=react&hide_border=true&bg_color=172f45&title_color=b1c2d3&icon_color=2d7cc5&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+</p>
+
 ## Contacts
 
 <p align="left">
