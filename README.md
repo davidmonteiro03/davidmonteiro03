@@ -119,7 +119,6 @@
 	</table>
 </p>
 
-<img src="https://badge.mediaplus.ma/binary/diogosan?1337Badge=off&UM6P=off" alt="diogosan's 42 stats" />
 
 ## Contacts
 
