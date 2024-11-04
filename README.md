@@ -4,7 +4,7 @@
 
 <p>
 	I'm doing the last 42-Cursus project: ft_transcendence.<br>
-	For more information, click <a href="https://github.com/davidmonteiro03/42-Cursus/tree/main/Projects/RANK06/ft_transcendence">ft_transcendence</a>.
+	For more information, click <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUFbmdneXU%3D">ft_transcendence</a>.
 </p>
 
 ## About me
