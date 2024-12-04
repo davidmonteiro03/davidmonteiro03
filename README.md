@@ -1,5 +1,3 @@
-# I'm David Monteiro!
-
 ## About me
 
 <p>
