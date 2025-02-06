@@ -32,11 +32,11 @@
 
 <p>
 	<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="40" alt="bash logo"/>
-	<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="40" alt="docker logo"/>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" alt="html5 logo"/>
-	<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="40" alt="django logo"/>
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="40" alt="bootstrap logo"/>
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40" alt="css3 logo"/>
+	<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="40" alt="docker logo"/>
+	<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="40" alt="django logo"/>
 	<img src="https://img.shields.io/badge/MySQL-1572B6?style=for-the-badge&logo=mysql&logoColor=white" height="40" alt="mysql logo"/>
 	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="40" alt="postgresql logo"/>
 </p>
