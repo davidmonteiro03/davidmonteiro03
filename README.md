@@ -123,9 +123,11 @@
 
 ## Contacts
 
-<p align="left">
+<p>
 	<a href="https://fb.com/david.monteiro.3304" target="blank">
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="52" height="40" alt="facebook logo"  />
 	</a>
-	<img href="https://instagram.com/davidmonteiro03" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+	<a href="https://instagram.com/davidmonteiro03" target="blank">
+		<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+	</a>
 </p>
