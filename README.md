@@ -41,6 +41,7 @@
 </p>
 
 <p>
+	<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="40" alt="jquery logo"/>
 	<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" height="40" alt="three.js logo"/>
 </p>
 
