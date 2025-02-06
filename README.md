@@ -41,6 +41,10 @@
 </p>
 
 <p>
+	<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" height="40" alt="three.js logo"/>
+</p>
+
+<p>
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="40" alt="docker logo"/>
 	<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="40" alt="django logo"/>
 </p>
