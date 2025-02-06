@@ -14,7 +14,7 @@
 ## Languages and Tools
 
 <p>
-	<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="40" alt="bash logo"/>
+	<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash" height="40" alt="bash logo"/>
 </p>
 
 <p>
@@ -35,21 +35,7 @@
 </p>
 
 <p>
-	<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="40" alt="bash logo"/>
-	<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="40" alt="bash logo"/>
-	<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="40" alt="bash logo"/>
-	<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="40" alt="bash logo"/>
-	<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="40" alt="bash logo"/>
-	<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="40" alt="bash logo"/>
-	<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="40" alt="bash logo"/>
-	<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="40" alt="bash logo"/>
-	<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="40" alt="bash logo"/>
-	<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="40" alt="bash logo"/>
-	<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="40" alt="bash logo"/>
-	<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="40" alt="bash logo"/>
-	<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="40" alt="bash logo"/>
-	<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="40" alt="bash logo"/>
-	<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="40" alt="bash logo"/>
+	<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash" height="40" alt="bash logo"/>
 </p>
 
 ## Programming Usage
