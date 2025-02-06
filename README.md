@@ -99,6 +99,7 @@
 	<tr>
 		<td><b>2022/2023</b></td>
 		<td>
+			<img src="https://simpleicons.org/icons/assemblyscript.svg" height="40" alt="aseembly logo"/>
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"/>
 			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"/>
 		</td>
