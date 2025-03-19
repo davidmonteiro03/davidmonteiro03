@@ -42,7 +42,9 @@
 ### Algo & AI & Data
 | Name | Score | Last submission date |
 | :--: | :---: | :------------------: |
-| [Python - 0 - Starting](https://github.com/davidmonteiro03/42-advanced-python-for-data-science/tree/main/python-0-starting) | `100/100` | January 27, 2025 |
+| [Python - 0 - Starting](https://github.com/davidmonteiro03/42-advanced-python-for-data-science/tree/main/python-0-starting)   | `100/100` | January 27, 2025 |
+| [Python - 1 - Array](https://github.com/davidmonteiro03/42-advanced-python-for-data-science/tree/main/python-1-array)         | `100/100` | January 30, 2025 |
+| [Python - 2 - DataTable](https://github.com/davidmonteiro03/42-advanced-python-for-data-science/tree/main/python-2-datatable) | `100/100` | February 3, 2025 |
 
 # Git Stats
 ![davidmonteiro03's Stats](https://github-readme-stats.vercel.app/api?username=davidmonteiro03&theme=dark&show_icons=true&hide_border=false&count_private=false)
