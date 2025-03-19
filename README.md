@@ -48,6 +48,11 @@
 | [Python - 3 - OOP](https://github.com/davidmonteiro03/42-advanced-python-for-data-science/tree/main/python-3-oop)             | `100/100` | February 4, 2025 |
 | [Python - 4 - Dod](https://github.com/davidmonteiro03/42-advanced-python-for-data-science/tree/main/python-4-dod)             | `100/100` | February 6, 2025 |
 
+## Cryptography & Maths
+| Name | Score | Last submission date |
+| :--: | :---: | :------------------: |
+| [matrix](https://github.com/davidmonteiro03/42-advanced-matrix) | `100/100` | February 1, 2025 |
+
 # Git Stats
 ![davidmonteiro03's Stats](https://github-readme-stats.vercel.app/api?username=davidmonteiro03&theme=dark&show_icons=true&hide_border=false&count_private=false)
 
