@@ -1,7 +1,8 @@
 # About me
 
 # 42 Projects
-## C
+## Common core
+### C
 | Name | Score | Last submission date |
 | :--: | :---: | :------------------: |
 | [Libft](https://github.com/davidmonteiro03/42-common-core-libft)                 | `125/100` | October 7, 2023   |
@@ -14,7 +15,7 @@
 | [minishell](https://github.com/davidmonteiro03/42-common-core-minishell)         | `101/100` | October 1, 2024   |
 | [cub3d](https://github.com/davidmonteiro03/42-common-core-cub3d)                 | `115/100` | January 20, 2024  |
 
-## C++
+### C++
 | Name | Score | Last submission date |
 | :--: | :---: | :------------------: |
 | [CPP Module 00](https://github.com/davidmonteiro03/42-common-core-cpp-modules/tree/main/cpp-module-00) | `100/100` | January 3, 2024  |
@@ -29,13 +30,19 @@
 | [CPP Module 09](https://github.com/davidmonteiro03/42-common-core-cpp-modules/tree/main/cpp-module-09) | `100/100` | February 1, 2024 |
 | [ft_irc](https://github.com/davidmonteiro03/42-common-core-ft_irc) | `125/100` | May 27, 2024 |
 
-## Web / Network & system administration
+### Web / Network & system administration
 | Name | Score | Last submission date |
 | :--: | :---: | :------------------: |
 | Born2beroot                                                                            | `110/100` | October 13, 2023 |
 | [NetPractice](https://github.com/davidmonteiro03/42-common-core-netpratice)            | `100/100` | January 2, 2024  |
 | [Inception](https://github.com/davidmonteiro03/42-common-core-inception)               | `100/100` | March 24, 2024   |
 | [ft_transcendence](https://github.com/davidmonteiro03/42-common-core-ft_transcendence) | `125/100` | January 22, 2025 |
+
+## Advanced
+### Algo & AI & Data
+| Name | Score | Last submission date |
+| :--: | :---: | :------------------: |
+| [Python - 0 - Starting](https://github.com/davidmonteiro03/42-advanced-python-for-data-science/tree/main/python-0-starting) | `100/100` | January 27, 2025 |
 
 # Git Stats
 ![davidmonteiro03's Stats](https://github-readme-stats.vercel.app/api?username=davidmonteiro03&theme=dark&show_icons=true&hide_border=false&count_private=false)
