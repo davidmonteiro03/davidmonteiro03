@@ -1,7 +1,7 @@
 # 42 Projects
 ## C
-| Name | Score | Skills | Last submission date |
-| :--: | :---: | :----: | :------------------: |
+| Name | Score | Last submission date |
+| :--: | :---: | :------------------: |
 | [Libft](https://github.com/davidmonteiro03/42-common-core-libft)                 | `125/100` | October 7, 2023   |
 | [ft_printf](https://github.com/davidmonteiro03/42-common-core-ft_printf)         | `100/100` | October 9, 2023   |
 | [get_next_line](https://github.com/davidmonteiro03/42-common-core-get_next_line) | `125/100` | April 23, 2024    |
