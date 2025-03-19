@@ -43,7 +43,7 @@
 ![dcaetano's 42 stats](https://badge.mediaplus.ma/binary/dcaetano?1337Badge=off&UM6P=off)
 
 # Languages Used and Tools
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white" height="40" alt="vscode logo" /> \
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white" height="40" alt="vscode logo" />
 <img src="https://simpleicons.org/icons/assemblyscript.svg" height="40" alt="assembly logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"/>
