@@ -1,165 +1,75 @@
-## About me
+# 42 Projects
+## C
+| Name | Score | Skills | Last submission date |
+| :--: | :---: | :----: | :------------------: |
+| [Libft](https://github.com/davidmonteiro03/42-common-core-libft) | `125/100` | `Rigor` `Algorithms & AI` `Imperative programming` | October 7, 2023 |
+| [ft_printf](https://github.com/davidmonteiro03/42-common-core-ft_printf) | `100/100` | `Rigor` `Algorithms & AI` | October 9, 2023 |
+| [get_next_line](https://github.com/davidmonteiro03/42-common-core-get_next_line) | `125/100` | `Rigor` `Unix` `Algorithms & AI` | April 23, 2024 |
+| [push_swap](https://github.com/davidmonteiro03/42-common-core-push_swap) | `125/100` | `Rigor` `Unix` `Algorithms & AI` `Imperative programming` | April 30, 2024 |
+| [minitalk](https://github.com/davidmonteiro03/42-common-core-minitalk) | `125/100` | `Rigor` `Unix` | October 30, 2023 |
+| [so_long](https://github.com/davidmonteiro03/42-common-core-so_long) | `125/100` | `Imperative programming` `Graphics` | May 13, 2024 |
+| [Philosophers](https://github.com/davidmonteiro03/42-common-core-philosophers) | `100/100` | `Rigor` `Unix` `Imperative programming` | December 11, 2023 |
+| [minishell](https://github.com/davidmonteiro03/42-common-core-minishell) | `101/100` | `Rigor` `Unix` `Imperative programming` | October 1, 2024 |
+| [cub3d](https://github.com/davidmonteiro03/42-common-core-cub3d) | `115/100` | `Rigor` `Algorithms & AI` `Imperative programming` `Graphics` | January 20, 2024 |
 
-<p>
-    <a href="https://github.com/davidmonteiro03" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo" />
-    </a>
-</p>
-<p>
-    <a href="https://www.instagram.com/davidmonteiro03/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="40" alt="instagram logo" />
-    </a>
-</p>
+## C++
+| Name | Score | Skills | Last submission date |
+| :--: | :---: | :----: | :------------------: |
+| [CPP Module 00](https://github.com/davidmonteiro03/42-common-core-cpp-modules/tree/main/cpp-module-00) | `100/100` | `Rigor` `Imperative programming` `Object-oriented programming` | January 3, 2024 |
+| [CPP Module 01](https://github.com/davidmonteiro03/42-common-core-cpp-modules/tree/main/cpp-module-01) | `100/100` | `Rigor` `Imperative programming` `Object-oriented programming` | January 4, 2024 |
+| [CPP Module 02](https://github.com/davidmonteiro03/42-common-core-cpp-modules/tree/main/cpp-module-02) | `100/100` | `Rigor` `Imperative programming` `Object-oriented programming` | January 15, 2024 |
+| [CPP Module 03](https://github.com/davidmonteiro03/42-common-core-cpp-modules/tree/main/cpp-module-03) | `100/100` | `Rigor` `Imperative programming` `Object-oriented programming` | January 22, 2024 |
+| [CPP Module 04](https://github.com/davidmonteiro03/42-common-core-cpp-modules/tree/main/cpp-module-04) | `100/100` | `Rigor` `Imperative programming` `Object-oriented programming` | January 22, 2024 |
+| [CPP Module 05](https://github.com/davidmonteiro03/42-common-core-cpp-modules/tree/main/cpp-module-05) | `100/100` | `Rigor` `Imperative programming` `Object-oriented programming` | January 25, 2024 |
+| [CPP Module 06](https://github.com/davidmonteiro03/42-common-core-cpp-modules/tree/main/cpp-module-06) | `100/100` | `Rigor` `Imperative programming` `Object-oriented programming` | January 30, 2024 |
+| [CPP Module 07](https://github.com/davidmonteiro03/42-common-core-cpp-modules/tree/main/cpp-module-07) | `100/100` | `Rigor` `Imperative programming` `Object-oriented programming` | January 30, 2024 |
+| [CPP Module 08](https://github.com/davidmonteiro03/42-common-core-cpp-modules/tree/main/cpp-module-08) | `100/100` | `Rigor` `Imperative programming` `Object-oriented programming` | February 1, 2024 |
+| [CPP Module 09](https://github.com/davidmonteiro03/42-common-core-cpp-modules/tree/main/cpp-module-09) | `100/100` | `Rigor` `Imperative programming` `Object-oriented programming` | February 1, 2024 |
+| [ft_irc](https://github.com/davidmonteiro03/42-common-core-ft_irc) | `125/100` | `Rigor` `Unix` `Network & system administration` `Object-oriented programming` | May 27, 2024 |
 
-## Languages and Tools
+## Web / Network & system administration
+| Name | Score | Skills | Last submission date |
+| :--: | :---: | :----: | :------------------: |
+| Born2beroot | `110/100` | `Rigor` `Network & system administration` | October 13, 2023 |
+| [NetPractice](https://github.com/davidmonteiro03/42-common-core-netpratice) | `100/100` | `Rigor` `Network & system administration` | January 2, 2024 |
+| [Inception](https://github.com/davidmonteiro03/42-common-core-inception) | `100/100` | `Rigor` `Network & system administration` | March 24, 2024 |
+| [ft_transcendence](https://github.com/davidmonteiro03/42-common-core-ft_transcendence) | `125/100` | `Rigor` `Web` `Group & interpersonal` | January 22, 2025 |
 
-<p>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white" height="40" alt="vscode logo" />
-    <img src="https://simpleicons.org/icons/assemblyscript.svg" height="40" alt="aseembly logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"/>
-</p>
+# Git Stats
+![davidmonteiro03's Stats](https://github-readme-stats.vercel.app/api?username=davidmonteiro03&theme=dark&show_icons=true&hide_border=false&count_private=false)
 
-<p>
-    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge" height="40" alt="visualstudio logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" height="40" alt="xamarin logo"/>
-</p>
+# 42 Curriculum Info
 
-<p>
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="40" alt="bash logo"/>
-</p>
+![dcaetano's 42 stats](https://badge.mediaplus.ma/binary/dcaetano?1337Badge=off&UM6P=off)
 
-<p>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" alt="html5 logo"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40" alt="css3 logo"/>
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="40" alt="bootstrap logo"/>
-</p>
+# Languages Used and Tools
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white" height="40" alt="vscode logo" />
+<img src="https://simpleicons.org/icons/assemblyscript.svg" height="40" alt="assembly logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"/>
 
-<p>
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="40" alt="jquery logo"/>
-    <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" height="40" alt="three.js logo"/>
-</p>
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge" height="40" alt="visualstudio logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" height="40" alt="xamarin logo"/>
 
-<p>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="40" alt="docker logo"/>
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="40" alt="django logo"/>
-    <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" height="40" alt="symfony logo"/>
-    <img src="https://img.shields.io/badge/Ruby%20On%20Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white" height="40" alt="rubyonrails logo"/>
-</p>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="40" alt="bash logo"/>
 
-<p>
-    <img src="https://img.shields.io/badge/MySQL-1572B6?style=for-the-badge&logo=mysql&logoColor=white" height="40" alt="mysql logo"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="40" alt="postgresql logo"/>
-</p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" alt="html5 logo"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40" alt="css3 logo"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="40" alt="bootstrap logo"/>
 
-## Programming Usage
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" height="40" alt="jquery logo"/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" height="40" alt="three.js logo"/>
 
-<table>
-    <!-- 2019/2020 -->
-    <tr>
-        <td><b>2019/2020</b></td>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"/>
-        </td>
-    </tr>
-    <!-- 2020/2021 -->
-    <tr>
-        <td><b>2020/2021</b></td>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="40" alt="bootstrap logo"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" height="40" alt="jquery logo"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"/>
-        </td>
-    </tr>
-    <!-- 2021/2022 -->
-    <tr>
-        <td><b>2021/2022</b></td>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" height="40" alt="xamarin logo"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="40" alt="bootstrap logo"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"/>
-        </td>
-    </tr>
-    <!-- 2022/2023 -->
-    <tr>
-        <td><b>2022/2023</b></td>
-        <td>
-            <img src="https://simpleicons.org/icons/assemblyscript.svg" height="40" alt="aseembly logo"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"/>
-        </td>
-    </tr>
-    <!-- 2023/2024 -->
-    <tr>
-        <td><b>2023/2024</b></td>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"/>
-        </td>
-    </tr>
-    <!-- 2024/2025 -->
-    <tr>
-        <td><b>2024/2025</b></td>
-        <td>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="40" alt="bootstrap logo"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" height="40" alt="symfony logo"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" height="40" alt="rails logo"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"/>
-        </td>
-    </tr>
-</table>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="40" alt="docker logo"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="40" alt="django logo"/>
+<img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" height="40" alt="symfony logo"/>
+<img src="https://img.shields.io/badge/Ruby%20On%20Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white" height="40" alt="rubyonrails logo"/>
 
-## My 42 progress
-
-<p>
-    <img src="https://badge.mediaplus.ma/binary/dcaetano?1337Badge=off&UM6P=off" alt="dcaetano's 42 stats" />
-</p>
-
-## My GitHub Stats
-
-<p>
-    <img alt="davidmonteiro03's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=davidmonteiro03&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=172f45&title_color=b1c2d3&icon_color=2d7cc5" height="192px"/>
-    <img alt="davidmonteiro03's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=davidmonteiro03&langs_count=20&layout=compact&theme=react&hide_border=true&bg_color=172f45&title_color=b1c2d3&icon_color=2d7cc5&hide=Jupyter%20Notebook,Roff" height="192px"/>
-</p>
-
-## Contacts
-
-<p align="left">
-    <a href="https://fb.com/david.monteiro.3304" target="blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="52" height="40" alt="facebook logo"  />
-    </a>
-    <a href="https://instagram.com/davidmonteiro03" target="blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-    </a>
-</p>
+<img src="https://img.shields.io/badge/MySQL-1572B6?style=for-the-badge&logo=mysql&logoColor=white" height="40" alt="mysql logo"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="40" alt="postgresql logo"/>
