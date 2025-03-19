@@ -2,38 +2,38 @@
 ## C
 | Name | Score | Skills | Last submission date |
 | :--: | :---: | :----: | :------------------: |
-| [Libft](https://github.com/davidmonteiro03/42-common-core-libft) | `125/100` | `Rigor` `Algorithms & AI` `Imperative programming` | October 7, 2023 |
-| [ft_printf](https://github.com/davidmonteiro03/42-common-core-ft_printf) | `100/100` | `Rigor` `Algorithms & AI` | October 9, 2023 |
-| [get_next_line](https://github.com/davidmonteiro03/42-common-core-get_next_line) | `125/100` | `Rigor` `Unix` `Algorithms & AI` | April 23, 2024 |
-| [push_swap](https://github.com/davidmonteiro03/42-common-core-push_swap) | `125/100` | `Rigor` `Unix` `Algorithms & AI` `Imperative programming` | April 30, 2024 |
-| [minitalk](https://github.com/davidmonteiro03/42-common-core-minitalk) | `125/100` | `Rigor` `Unix` | October 30, 2023 |
-| [so_long](https://github.com/davidmonteiro03/42-common-core-so_long) | `125/100` | `Imperative programming` `Graphics` | May 13, 2024 |
-| [Philosophers](https://github.com/davidmonteiro03/42-common-core-philosophers) | `100/100` | `Rigor` `Unix` `Imperative programming` | December 11, 2023 |
-| [minishell](https://github.com/davidmonteiro03/42-common-core-minishell) | `101/100` | `Rigor` `Unix` `Imperative programming` | October 1, 2024 |
-| [cub3d](https://github.com/davidmonteiro03/42-common-core-cub3d) | `115/100` | `Rigor` `Algorithms & AI` `Imperative programming` `Graphics` | January 20, 2024 |
+| [Libft](https://github.com/davidmonteiro03/42-common-core-libft)                 | `125/100` | October 7, 2023   |
+| [ft_printf](https://github.com/davidmonteiro03/42-common-core-ft_printf)         | `100/100` | October 9, 2023   |
+| [get_next_line](https://github.com/davidmonteiro03/42-common-core-get_next_line) | `125/100` | April 23, 2024    |
+| [push_swap](https://github.com/davidmonteiro03/42-common-core-push_swap)         | `125/100` | April 30, 2024    |
+| [minitalk](https://github.com/davidmonteiro03/42-common-core-minitalk)           | `125/100` | October 30, 2023  |
+| [so_long](https://github.com/davidmonteiro03/42-common-core-so_long)             | `125/100` | May 13, 2024      |
+| [Philosophers](https://github.com/davidmonteiro03/42-common-core-philosophers)   | `100/100` | December 11, 2023 |
+| [minishell](https://github.com/davidmonteiro03/42-common-core-minishell)         | `101/100` | October 1, 2024   |
+| [cub3d](https://github.com/davidmonteiro03/42-common-core-cub3d)                 | `115/100` | January 20, 2024  |
 
 ## C++
-| Name | Score | Skills | Last submission date |
-| :--: | :---: | :----: | :------------------: |
-| [CPP Module 00](https://github.com/davidmonteiro03/42-common-core-cpp-modules/tree/main/cpp-module-00) | `100/100` | `Rigor` `Imperative programming` `Object-oriented programming` | January 3, 2024 |
-| [CPP Module 01](https://github.com/davidmonteiro03/42-common-core-cpp-modules/tree/main/cpp-module-01) | `100/100` | `Rigor` `Imperative programming` `Object-oriented programming` | January 4, 2024 |
-| [CPP Module 02](https://github.com/davidmonteiro03/42-common-core-cpp-modules/tree/main/cpp-module-02) | `100/100` | `Rigor` `Imperative programming` `Object-oriented programming` | January 15, 2024 |
-| [CPP Module 03](https://github.com/davidmonteiro03/42-common-core-cpp-modules/tree/main/cpp-module-03) | `100/100` | `Rigor` `Imperative programming` `Object-oriented programming` | January 22, 2024 |
-| [CPP Module 04](https://github.com/davidmonteiro03/42-common-core-cpp-modules/tree/main/cpp-module-04) | `100/100` | `Rigor` `Imperative programming` `Object-oriented programming` | January 22, 2024 |
-| [CPP Module 05](https://github.com/davidmonteiro03/42-common-core-cpp-modules/tree/main/cpp-module-05) | `100/100` | `Rigor` `Imperative programming` `Object-oriented programming` | January 25, 2024 |
-| [CPP Module 06](https://github.com/davidmonteiro03/42-common-core-cpp-modules/tree/main/cpp-module-06) | `100/100` | `Rigor` `Imperative programming` `Object-oriented programming` | January 30, 2024 |
-| [CPP Module 07](https://github.com/davidmonteiro03/42-common-core-cpp-modules/tree/main/cpp-module-07) | `100/100` | `Rigor` `Imperative programming` `Object-oriented programming` | January 30, 2024 |
-| [CPP Module 08](https://github.com/davidmonteiro03/42-common-core-cpp-modules/tree/main/cpp-module-08) | `100/100` | `Rigor` `Imperative programming` `Object-oriented programming` | February 1, 2024 |
-| [CPP Module 09](https://github.com/davidmonteiro03/42-common-core-cpp-modules/tree/main/cpp-module-09) | `100/100` | `Rigor` `Imperative programming` `Object-oriented programming` | February 1, 2024 |
-| [ft_irc](https://github.com/davidmonteiro03/42-common-core-ft_irc) | `125/100` | `Rigor` `Unix` `Network & system administration` `Object-oriented programming` | May 27, 2024 |
+| Name | Score | Last submission date |
+| :--: | :---: | :------------------: |
+| [CPP Module 00](https://github.com/davidmonteiro03/42-common-core-cpp-modules/tree/main/cpp-module-00) | `100/100` | January 3, 2024  |
+| [CPP Module 01](https://github.com/davidmonteiro03/42-common-core-cpp-modules/tree/main/cpp-module-01) | `100/100` | January 4, 2024  |
+| [CPP Module 02](https://github.com/davidmonteiro03/42-common-core-cpp-modules/tree/main/cpp-module-02) | `100/100` | January 15, 2024 |
+| [CPP Module 03](https://github.com/davidmonteiro03/42-common-core-cpp-modules/tree/main/cpp-module-03) | `100/100` | January 22, 2024 |
+| [CPP Module 04](https://github.com/davidmonteiro03/42-common-core-cpp-modules/tree/main/cpp-module-04) | `100/100` | January 22, 2024 |
+| [CPP Module 05](https://github.com/davidmonteiro03/42-common-core-cpp-modules/tree/main/cpp-module-05) | `100/100` | January 25, 2024 |
+| [CPP Module 06](https://github.com/davidmonteiro03/42-common-core-cpp-modules/tree/main/cpp-module-06) | `100/100` | January 30, 2024 |
+| [CPP Module 07](https://github.com/davidmonteiro03/42-common-core-cpp-modules/tree/main/cpp-module-07) | `100/100` | January 30, 2024 |
+| [CPP Module 08](https://github.com/davidmonteiro03/42-common-core-cpp-modules/tree/main/cpp-module-08) | `100/100` | February 1, 2024 |
+| [CPP Module 09](https://github.com/davidmonteiro03/42-common-core-cpp-modules/tree/main/cpp-module-09) | `100/100` | February 1, 2024 |
+| [ft_irc](https://github.com/davidmonteiro03/42-common-core-ft_irc) | `125/100` | May 27, 2024 |
 
 ## Web / Network & system administration
-| Name | Score | Skills | Last submission date |
-| :--: | :---: | :----: | :------------------: |
-| Born2beroot | `110/100` | `Rigor` `Network & system administration` | October 13, 2023 |
-| [NetPractice](https://github.com/davidmonteiro03/42-common-core-netpratice) | `100/100` | `Rigor` `Network & system administration` | January 2, 2024 |
-| [Inception](https://github.com/davidmonteiro03/42-common-core-inception) | `100/100` | `Rigor` `Network & system administration` | March 24, 2024 |
-| [ft_transcendence](https://github.com/davidmonteiro03/42-common-core-ft_transcendence) | `125/100` | `Rigor` `Web` `Group & interpersonal` | January 22, 2025 |
+| Name | Score | Last submission date |
+| :--: | :---: | :------------------: |
+| Born2beroot                                                                            | `110/100` | October 13, 2023 |
+| [NetPractice](https://github.com/davidmonteiro03/42-common-core-netpratice)            | `100/100` | January 2, 2024  |
+| [Inception](https://github.com/davidmonteiro03/42-common-core-inception)               | `100/100` | March 24, 2024   |
+| [ft_transcendence](https://github.com/davidmonteiro03/42-common-core-ft_transcendence) | `125/100` | January 22, 2025 |
 
 # Git Stats
 ![davidmonteiro03's Stats](https://github-readme-stats.vercel.app/api?username=davidmonteiro03&theme=dark&show_icons=true&hide_border=false&count_private=false)
