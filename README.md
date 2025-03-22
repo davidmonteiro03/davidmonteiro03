@@ -51,7 +51,7 @@
 ## Cryptography & Maths
 | Name | Score | Last submission date |
 | :--: | :---: | :------------------: |
-| [matrix](https://github.com/davidmonteiro03/42-advanced-matrix) | `100/100` | February 1, 2025 |
+| [matrix](https://github.com/davidmonteiro03/42-advanced-matrix) | `125/100` | February 1, 2025 |
 
 # Git Stats
 ![davidmonteiro03's Stats](https://github-readme-stats.vercel.app/api?username=davidmonteiro03&theme=dark&show_icons=true&hide_border=false&count_private=false)
