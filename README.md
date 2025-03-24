@@ -1,4 +1,5 @@
 # About me
+Recently completed the Common Core at 42 and finished secondary school with an internship. Experienced in C/C++, Python, Django, and Docker Compose. Seeking a 6-month internship in Software Development or Web Development. Motivated to learn and contribute to challenging projects.
 
 # 42 Projects
 ## Common core
