@@ -57,9 +57,11 @@ Recently completed the Common Core at 42 and finished secondary school with an i
 ### Web Mobile
 | Name | Score | Last submission date |
 | :--: | :---: | :------------------: |
-| [Django - 0 - Initiation](https://github.com/davidmonteiro03/42-advanced-piscine-django/tree/main/d01-django-0-initiation) | `100/100` | February 06, 2025 |
-| [Django - 0 - Starting](https://github.com/davidmonteiro03/42-advanced-piscine-django/tree/main/d02-django-0-starting)     | `100/100` | February 11, 2025 |
-| [Django - 0 - Oob](https://github.com/davidmonteiro03/42-advanced-piscine-django/tree/main/d03-django-0-oob)               | `100/100` | February 13, 2025 |
+| [Django - 0 - Initiation](https://github.com/davidmonteiro03/42-advanced-piscine-django/tree/main/d01-django-0-initiation)   | `100/100` | February 06, 2025 |
+| [Django - 0 - Starting](https://github.com/davidmonteiro03/42-advanced-piscine-django/tree/main/d02-django-0-starting)       | `100/100` | February 11, 2025 |
+| [Django - 0 - Oob](https://github.com/davidmonteiro03/42-advanced-piscine-django/tree/main/d03-django-0-oob)                 | `100/100` | February 13, 2025 |
+| [Django - 1 - Lib](https://github.com/davidmonteiro03/42-advanced-piscine-django/tree/main/d04-django-1-lib)                 | `100/100` | February 27, 2025 |
+| [Django - 1 - Base Django](https://github.com/davidmonteiro03/42-advanced-piscine-django/tree/main/d05-django-1-base-django) | `100/100` | March 8, 2025     |
 
 # Git Stats
 ![davidmonteiro03's Stats](https://github-readme-stats.vercel.app/api?username=davidmonteiro03&theme=dark&show_icons=true&hide_border=false&count_private=false)
