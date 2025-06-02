@@ -54,7 +54,7 @@ Recently completed the Common Core at 42 and finished secondary school with an i
 | :--: | :---: | :------------------: |
 | [matrix](https://github.com/davidmonteiro03/42-advanced-matrix) | `125/100` | February 1, 2025 |
 
-### Web Mobile
+### Web & Mobile
 | Name | Score | Last submission date |
 | :--: | :---: | :------------------: |
 | [Django - 0 - Initiation](https://github.com/davidmonteiro03/42-advanced-piscine-django/tree/main/d01-django-0-initiation)   | `100/100` | February 06, 2025 |
