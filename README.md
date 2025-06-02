@@ -49,7 +49,7 @@ Recently completed the Common Core at 42 and finished secondary school with an i
 | [Python - 3 - OOP](https://github.com/davidmonteiro03/42-advanced-python-for-data-science/tree/main/python-3-oop)             | `100/100` | February 4, 2025 |
 | [Python - 4 - Dod](https://github.com/davidmonteiro03/42-advanced-python-for-data-science/tree/main/python-4-dod)             | `100/100` | February 6, 2025 |
 
-## Cryptography & Maths
+### Cryptography & Maths
 | Name | Score | Last submission date |
 | :--: | :---: | :------------------: |
 | [matrix](https://github.com/davidmonteiro03/42-advanced-matrix) | `125/100` | February 1, 2025 |
