@@ -63,6 +63,9 @@ Recently completed the Common Core at 42 and finished secondary school with an i
 | [Django - 1 - Lib](https://github.com/davidmonteiro03/42-advanced-piscine-django/tree/main/d04-django-1-lib)                 | `100/100` | February 27, 2025 |
 | [Django - 1 - Base Django](https://github.com/davidmonteiro03/42-advanced-piscine-django/tree/main/d05-django-1-base-django) | `100/100` | March 8, 2025     |
 | [Django - 2 - SQL](https://github.com/davidmonteiro03/42-advanced-piscine-django/tree/main/d06-django-2-sql)                 | `100/100` | March 13, 2025    |
+| [Django - 3 - Sessions](https://github.com/davidmonteiro03/42-advanced-piscine-django/tree/main/d07-django-3-sessions)       | `100/100` | April 15, 2025    |
+| [Django - 3 - Advanced](https://github.com/davidmonteiro03/42-advanced-piscine-django/tree/main/d08-django-3-advanced)       | `100/100` | April 30, 2025    |
+| [Django - 3 - Final](https://github.com/davidmonteiro03/42-advanced-piscine-django/tree/main/d09-django-3-final)             | `100/100` | June 2, 2025      |
 
 # Git Stats
 ![davidmonteiro03's Stats](https://github-readme-stats.vercel.app/api?username=davidmonteiro03&theme=dark&show_icons=true&hide_border=false&count_private=false)
