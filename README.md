@@ -77,20 +77,11 @@ Recently completed the Common Core at 42 and finished secondary school with an i
 # Languages Used and Tools
 <div>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white" height="40" alt="vscode logo" />
-    <img src="https://simpleicons.org/icons/assemblyscript.svg" height="40" alt="assembly logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"/>
-</div>
-
-<div>
-    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge" height="40" alt="visualstudio logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" height="40" alt="xamarin logo"/>
 </div>
 
 <div>
@@ -111,8 +102,6 @@ Recently completed the Common Core at 42 and finished secondary school with an i
 <div>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="40" alt="docker logo"/>
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="40" alt="django logo"/>
-    <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" height="40" alt="symfony logo"/>
-    <img src="https://img.shields.io/badge/Ruby%20On%20Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white" height="40" alt="rubyonrails logo"/>
 </div>
 
 <div>
