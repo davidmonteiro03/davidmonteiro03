@@ -52,8 +52,8 @@ Recently completed the Common Core at 42 and finished secondary school with an i
 ### Cryptography & Maths
 | Name | Score | Last submission date |
 | :--: | :---: | :------------------: |
-| [computorv1](https://github.com/davidmonteiro03/42-advanced-matrix) | `117/100` | March 3, 2025    |
-| [matrix](https://github.com/davidmonteiro03/42-advanced-matrix)     | `125/100` | February 1, 2025 |
+| [computorv1](https://github.com/davidmonteiro03/42-advanced-computorv1) | `117/100` | March 3, 2025    |
+| [matrix](https://github.com/davidmonteiro03/42-advanced-matrix)         | `125/100` | February 1, 2025 |
 
 ### Web & Mobile
 | Name | Score | Last submission date |
