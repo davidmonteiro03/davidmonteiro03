@@ -55,6 +55,19 @@ Recently completed the Common Core at 42 and finished secondary school with an i
 | [computorv1](https://github.com/davidmonteiro03/42-advanced-computorv1) | `117/100` | March 3, 2025    |
 | [matrix](https://github.com/davidmonteiro03/42-advanced-matrix)         | `125/100` | February 1, 2025 |
 
+### Functional Programming
+| Name | Score | Last submission date |
+| :--: | :---: | :------------------: |
+| [OCAML - Basic syntax and semantics - 0](https://github.com/davidmonteiro03/42-advanced-piscine-ocaml/tree/main/d01-ocaml-basic-syntax-and-semantics-0)                     | `100/100` | June 16, 2025 |
+| [OCAML - Recursion and higher-order functions - 0](https://github.com/davidmonteiro03/42-advanced-piscine-ocaml/tree/main/d02-ocaml-recursion-and-higher-order-functions-0) | `100/100` | June 16, 2025 |
+| [OCAML - Pattern Matching and Data Types - 0](https://github.com/davidmonteiro03/42-advanced-piscine-ocaml/tree/main/d03-ocaml-pattern-matching-and-data-types-0)           | `100/100` | June 17, 2025 |
+| [OCAML - OCaml’s modules language - 1](https://github.com/davidmonteiro03/42-advanced-piscine-ocaml/tree/main/d04-ocaml-ocaml-s-modules-language-1)                         | `100/100` | June 18, 2025 |
+| [OCAML - Imperative features - 1](https://github.com/davidmonteiro03/42-advanced-piscine-ocaml/tree/main/d05-ocaml-imperative-features-1)                                   | `85/100`  | June 18, 2025 |
+| [OCAML - Functor - 1](https://github.com/davidmonteiro03/42-advanced-piscine-ocaml/tree/main/d06-ocaml-functor-1)                                                           | `100/100` | June 19, 2025 |
+| [OCAML - Object Oriented Programming - 1](https://github.com/davidmonteiro03/42-advanced-piscine-ocaml/tree/main/d07-ocaml-object-oriented-programming-1)                   | `70/100`  | June 26, 2025 |
+| [OCAML - Object Oriented Programming - 2](https://github.com/davidmonteiro03/42-advanced-piscine-ocaml/tree/main/d08-ocaml-object-oriented-programming-2)                   | `100/100` | June 26, 2025 |
+| [OCAML - Monoids and Monads - 3](https://github.com/davidmonteiro03/42-advanced-piscine-ocaml/tree/main/d09-ocaml-monoids-and-monads-3)                                     | `100/100` | June 27, 2025 |
+
 ### Web & Mobile
 | Name | Score | Last submission date |
 | :--: | :---: | :------------------: |
