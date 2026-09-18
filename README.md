@@ -68,6 +68,11 @@ Recently completed the Common Core at 42 and finished secondary school with an i
 | [OCAML - Object Oriented Programming - 2](https://github.com/davidmonteiro03/42-advanced-piscine-ocaml/tree/main/d08-ocaml-object-oriented-programming-2)                   | `100/100` | June 26, 2025 |
 | [OCAML - Monoids and Monads - 3](https://github.com/davidmonteiro03/42-advanced-piscine-ocaml/tree/main/d09-ocaml-monoids-and-monads-3)                                     | `100/100` | June 27, 2025 |
 
+### System & Kernel
+| Name | Score | Last submission date |
+| :--: | :---: | :------------------: |
+| [libasm](https://github.com/davidmonteiro03/42-advanced-libasm) | `120/100` | September 18, 2026 |
+
 ### Web & Mobile
 | Name | Score | Last submission date |
 | :--: | :---: | :------------------: |
